@@ -1,14 +1,13 @@
 {
-  "name": "nodejs-website",
+  "name": "y",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node src",
-    "dev":"nodemon src"
+    "dev": "nodemon src"
   },
   "keywords": [],
-  "author": "",
+  "author": "Daniel",
   "license": "ISC",
   "dependencies": {
     "ejs": "^2.7.1",
@@ -17,5 +16,14 @@
   },
   "devDependencies": {
     "nodemon": "^1.19.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llmaster23ll/nodejs-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/llmaster23ll/nodejs-website/issues"
+  },
+  "homepage": "https://github.com/llmaster23ll/nodejs-website#readme",
+  "description": ""
 }
